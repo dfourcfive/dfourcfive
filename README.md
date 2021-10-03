@@ -20,8 +20,8 @@ const ibrahim = {
       backend: ["Flask", "NodeJS/ExpressJs","SpringBoot"],
       mobile: ["Flutter"],
       databases: ["Postgresql","MongoDb","Mysql","Redis"],
-      versionControle : ["Git/GitHub],
-      editors : ["VsCode"]n
+      versionControle : ["Git/GitHub"],
+      editors : ["VsCode"],
       tools : ["Talend","Pentaho","kafka/ZooKeeper"],
       cloudServices: ["Firebase","Elastic NV","Heroku","Docker"],
   }
