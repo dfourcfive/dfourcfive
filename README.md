@@ -5,7 +5,6 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+stack+developer;I'm+a+competitive+programmer;" /></a>
 </p>
 <p>I am intressted in bulding big data systems and API, data engneering and security.</p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I’m @dfourcfive</li>
   <li>💼 I'm a Full stack developer.</li>
@@ -22,9 +21,9 @@ const ibrahim = {
       mobile: ["Flutter"],
       databases: ["Postgresql","MongoDb","Mysql","Redis"],
       versionControle : ["Git/GitHub],
-      Editors : ["VsCode"]n
+      editors : ["VsCode"]n
       tools : ["Talend","Pentaho","kafka/ZooKeeper"],
-      CloudServices: ["Firebase","Elastic NV","Heroku","Docker"],
+      cloudServices: ["Firebase","Elastic NV","Heroku","Docker"],
   }
 }
 ```
