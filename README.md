@@ -23,7 +23,7 @@ const ibrahim = {
       versionControle : ["Git/GitHub"],
       editors : ["VsCode"],
       tools : ["Talend","Pentaho","kafka/ZooKeeper"],
-      cloudServices: ["Firebase","Elastic NV","Heroku","Docker"],
+      cloudServices: ["Firebase","Elastic NV","Heroku","Docker","Amazon web services"],
   }
 }
 ```
