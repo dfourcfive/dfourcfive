@@ -4,7 +4,7 @@
 <p align="center">
   <a align="center"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+stack+developer;I'm+a+competitive+programmer;" /></a>
 </p>
-<p>I am intressted in bulding big data systems and APIs, data engneering and security.</p>
+<p>I am intressted in building big data systems and APIs, data engneering and security.</p>
 <ul>
   <li>👋 Hi, I’m @dfourcfive</li>
   <li>💼 I'm a Full stack developer.</li>
