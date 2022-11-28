@@ -13,13 +13,13 @@
 #### A little more about me
 ```javascript
 const ibrahim = {
-  code: ["Javascript", "Python","dart", "go" ,"HTML", "CSS"],
+  code: ["Javascript", "Python","Dart", "Go","Java"],
   askMeAbout: ["web dev", "frontend dev", "backend dev", "mobile dev"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap","Java"],
-      backend: ["Flask", "NodeJS/ExpressJs","SpringBoot"],
+      backend: ["Fast-api","Django","Flask", "NodeJS/ExpressJs","SpringBoot"],
       mobile: ["Flutter"],
-      databases: ["Postgresql","MongoDb","Mysql","Redis"],
+      databases: ["Postgresql","MongoDb","Mysql","Redis","dynamoDB"],
       versionControle : ["Git/GitHub"],
       editors : ["VsCode"],
       tools : ["Talend","Pentaho","kafka/ZooKeeper"],
